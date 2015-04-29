@@ -2,8 +2,6 @@
 
 * Pooya:  A theme made by [Pooya][pooya_kamel]
 
-[this is how i made it][lolo]
-[lolo]: http://pooya.com
   ![Pooya]
 
 Installation
