@@ -1,8 +1,8 @@
 # Xcode-Theme Pooya
 
-* Cocoa Frooties:  A theme made by [Michael Mangold][michael_mangold]
+* Pooya:  A theme made by [Pooya Kamel][pooya_kamel]
 
-  ![CocoaFrooties]
+  ![Pooya]
 
 Installation
 ------------
@@ -21,4 +21,6 @@ Installation
     $ cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
     
 
-[CocoaFrooties]: http://michaelmangold.com/wp-content/uploads/2013/03/cocoafrooties2.png
+[Pooya]: http://michaelmangold.com/wp-content/uploads/2013/03/cocoafrooties2.png
+[pooya_kamel]: http://github.com/pooya-
+
