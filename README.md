@@ -21,6 +21,6 @@ Installation
     $ cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
     
 
-[Pooya]: http://michaelmangold.com/wp-content/uploads/2013/03/cocoafrooties2.png
+[Pooya]: https://github.com/pooya-/Xcode-Theme/blob/master/Pooya.png
 [pooya_kamel]: http://github.com/pooya-
 
